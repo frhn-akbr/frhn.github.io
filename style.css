@@ -1,0 +1,181 @@
+* {
+	margin: 0;
+	padding: 0;
+	text-decoration: none; 
+}
+
+.clear {
+	clear: both;
+}
+
+.beranda {
+	margin-right: 24px;
+	background-color: #08AEEA;
+background-image: linear-gradient(0deg, #08AEEA 0%, #2AF598 100%);
+}
+
+nav a {
+	font-size: 30px;
+    background-color: yellow;
+    padding: 10px 90px;
+    float: left;
+    margin-top: 10px;
+    color: black;
+    transition: 0.5s;
+}
+
+
+nav .akhir {
+	float: left;
+	background-color: #08AEEA;
+background-image: linear-gradient(0deg, #08AEEA 0%, #2AF598 100%);
+	margin-right: 24px
+}
+
+nav {
+	margin-bottom: 40px
+}
+
+article .info {
+	width: 45%;
+	font-size: 20px;
+	padding: 30px;
+	float: left;
+	text-align: justify;
+}
+
+article .info h1 {
+	font-size: 35px;
+	padding-bottom: 20px;
+}
+
+.video {
+	float: right;
+	height: 650px;
+	width: 700px;
+
+}
+
+.bg {
+	background-color: #D9AFD9;
+background-image: linear-gradient(0deg, #D9AFD9 0%, #97D9E1 100%);
+}
+
+.food {
+	background-image: url("belakang.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	height: 100%;
+}
+
+.dua {
+	background-color: #85FFBD;
+background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
+
+}
+
+.aw {
+	font-size: 15px;
+	color: solid black;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.roti {
+	font-size: 15px;
+	color: solid black;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.alfa {
+	font-size: 15px;
+	color: solid black;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.pandan {
+	font-size: 15px;
+	color: solid black;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.excelaso {
+	font-size: 15px;
+	color: solid black;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.cfc {
+	font-size: 15px;
+	color: solid black;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.tiga {
+	background: rgb(2,0,36);
+background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(58,58,111,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+article .text h1 {
+	font-size: 50px;
+	color: white;
+	padding-bottom: 20px;
+	text-align: center;
+}
+
+article .text {
+	font-size: 25px;
+	color: white;
+	padding-bottom: 20px;
+	text-align: center;
+}
+
+article .keberangkatan h1 {
+	font-size: 25px;
+	color: white;
+	padding-bottom: 20px;
+}
+
+article .keberangkatan {
+	font-size: 15px;
+	color: white;
+	padding-bottom: 20px;
+	text-align: left;
+}
+
+article .kedatangan h1 {
+	font-size: 25px;
+	color: white;
+	padding-bottom: 20px;
+	text-align: right;
+
+}
+
+article .kedatangan {
+	font-size: 15px;
+	color: white;
+	padding-bottom: 20px;
+	text-align: right;
+}
+
+.py {
+	display: flex;
+	justify-content: space-between;
+}
+
+.pt {
+	display: flex;
+	justify-content: space-between;
+}
+
+.form {
+	background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
